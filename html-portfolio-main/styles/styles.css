@@ -1,0 +1,30 @@
+h1 {
+        color: #8d840a;
+      }
+
+h2,h3 {
+        color: #0a4c8d;
+      }
+hr {
+        border: 1px solid #0a4c8d;
+        position: relative;
+      }
+     footer {
+        display: flex;
+        justify-content: center;
+        padding: 5px;
+        background-color: #489ef5;
+        color: white;
+      }
+.other, a {
+    list-style-type: lower-roman;
+    text-decoration: none;
+
+}
+
+a:hover {
+    color: orange;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+    transform: translateY(-4px);
+    
+    } 
