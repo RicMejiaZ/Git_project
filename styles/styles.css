@@ -5,6 +5,7 @@ h1 {
 h2,h3 {
         color: #0a4c8d;
       }
+
 hr {
         border: 1px solid #0a4c8d;
         position: relative;
@@ -28,3 +29,5 @@ a:hover {
     transform: translateY(-4px);
     
     } 
+
+  

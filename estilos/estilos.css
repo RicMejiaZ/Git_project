@@ -19,6 +19,12 @@ position: absolute;
         padding: 3px;
         text-overflow: unset;
     }
+    .mainpage > a{
+        display: flex;
+        justify-content: flex-end;
+        color: darkblue;
+}
+
     
 
 /*main{ padding: 0;
