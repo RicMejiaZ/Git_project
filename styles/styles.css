@@ -64,3 +64,8 @@ td {
 tr:nth-child(even) {
 	background-color: #f3f3f3;
 }
+
+table .number {
+	text-align: center; /* centra horizontalmente el texto */
+	vertical-align: middle; /* centra verticalmente */
+}
