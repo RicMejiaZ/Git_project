@@ -20,6 +20,11 @@ hr {
 	margin-left: 0; /* Alinea el hr a la izquierda */
 }
 
+ul, li {
+	padding: 1px;
+	margin-left: 1%;
+}
+
 footer {
 	display: flex;
 	justify-content: center;
@@ -29,12 +34,13 @@ footer {
 }
 .other,
 a {
-	list-style-type: lower-roman;
+	list-style-type:disc;
 	text-decoration: none;
+	padding: 3px;
 }
 
 a:hover {
-	color: orange;
+	color: rgb(7, 77, 207);
 	box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
 	transform: translateY(-4px);
 }
